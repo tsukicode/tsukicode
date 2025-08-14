@@ -4,10 +4,9 @@
   </a>
 </div>
 
-<h4 align="center">Estudante de Engenharia de Software | UNINTER </h4>
+## Sobre mim
 
-- 💻 Iniciante em programação aprofundando conhecimentos em front-end e back-end.
-- ✉️ thaiserica1304@gmail.com
+Me chamo Thaislaine, sou estudante de Engenharia de Software na UNINTER. Realizei uma transição de carreira de psicologia para tecnologia e desde então venho estudando front-end e back-end, em busca do que mais combina com meus interesses.
 
 <br>
 
@@ -22,5 +21,13 @@
   </a>
 </p>
 
-<h4>Conexões</h4>
-<a href="https://www.linkedin.com/in/thaislaine-reis-296168365"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+## Contato
+
+<div> 
+  <a href="mailto:thaiserica1304@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/thaislaine-reis-296168365" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
+</div>
